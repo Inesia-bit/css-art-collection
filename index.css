@@ -31,3 +31,11 @@
     box-shadow:  20px 10px 0px 0px #fff;
     /* box-shadow:  0 0 10px 10px #fff; */
 }
+.sun{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    /* box-shadow:  20px 10px 0px 0px #fff; */
+    box-shadow:  0 0 10px 10px #fff;
+}
